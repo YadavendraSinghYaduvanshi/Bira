@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name" translatable="false">Bira</string>
+
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+    <string name="action_sign_in" translatable="false">Login</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="permission_rationale" translatable="false">Contacts permissions are needed for providing email completions.</string>
+    <string name="storefront" translatable="false">Click store front image</string>
+    <string name="gps" translatable="false">GPS IS DISABLED...</string>
+    <string name="gpsebale" translatable="false">Click ok to enable GPS.</string>
+    <string name="notsuppoted" translatable="false">This device is not supported.</string>
+    <string name="title_activity_save_data" translatable="false">Do you want to save the data ?</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="datanotfound" translatable="false">Coverage Data not found </string>
+    <string name="checkoutError" translatable="false"> CheckOut not successful. Please try later.</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="clickimage" translatable="false">Please capture image.</string>
+    <string name="uploaddata" translatable="false">Uploading data</string>
+    <string name="prompt_userid" translatable="false">Username</string>
+    <string name="backup" translatable="false">DataBase Backup</string>
+    <string name="exit" translatable="false">Exit</string>
+    <string name="my_attendance" translatable="false">My Attendance</string>
+    <string name="team_attendance" translatable="false">Team Attendance</string>
+    <string name="myperformance" translatable="false">My Performance</string>
+    <string name="teamperformance" translatable="false">Team Performance</string>
+    <string name="outletperformance" translatable="false">Outlet Performance</string>
+    <string name="no_data_for_upload" translatable="false">No data for upload</string>
+    <string name="performance" translatable="false">Performance</string>
+    <string name="error_incorrect_username" translatable="false">This username is incorrect</string>
+    <string name="title_activity_main" translatable="false">Main Menu</string>
+    <string name="menu_daily_route_plan" translatable="false">Daily Entry</string>
+    <string name="menu_daily_download" translatable="false">Download Data</string>
+    <string name="menu_upload_data" translatable="false">Upload Data</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="data_not_uploaded" translatable="false">Data not uploaded. Please try again.</string>
+    <string name="data_uploaded" translatable="false">Database uploaded successfully</string>
+    <string name="myAttendance" translatable="false">Your attendance updated on server successfully</string>
+    <string name="teamAttendance" translatable="false">Your team attendance updated on server successfully</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="work_with_mer" translatable="false">Working with other merchandiser</string>
+    <string name="previous_data_upload" translatable="false">Please upload previous data first</string>
+    <string name="want_download_data" translatable="false">Do you want to download data ?</string>
+    <string name="market_visit" translatable="false">Market Visit / Meeting</string>
+    <string name="Working_with_TSE" translatable="false">Working with TSE</string>
+    <string name="title_activity_my_attendance" translatable="false">My Attendance</string>
+    <string name="title_activity_team_attendance" translatable="false">Team Attendance</string>
+    <string name="nonetwork" translatable="false"> No Network Connection. Please Check Your Internet Connection</string>
+
+    <string name="merchandiser" translatable="false">Merchandiser</string>
+    <string name="attendance" translatable="false">Attendance</string>
+    <string name="intime" translatable="false">InTime</string>
+    <string name="merch_name" translatable="false">Merch Name</string>
+    <string name="twd" translatable="false">TWD</string>
+    <string name="presend" translatable="false">Present</string>
+    <string name="holiday" translatable="false">Holiday</string>
+    <string name="leave" translatable="false">Leave</string>
+    <string name="absent" translatable="false">Absent</string>
+
+    <string name="click_Image_Str" translatable="false">Please click image for filled quantity</string>
+    <string name="Remark" translatable="false">Remark</string>
+    <string name="pleaseenterRemarks" translatable="false">Please fill remark</string>
+    <string name="title_activity_take_image" translatable="false">Please take a image</string>
+    <string name="remark" translatable="false">Please fill remark</string>
+    <string name="select_reason" translatable="false">Please select reason</string>
+    <string name="image_delete" translatable="false">Image will be deleted for quantity 0. want to proceed?</string>
+    <string name="select_Sub_reason" translatable="false">Select sub reason</string>
+    <string name="title_activity_pjpdeviation" translatable="false">PJPDeviation</string>
+    <string name="title_activity_store_list" translatable="false">StoreList</string>
+    <string name="NodataAvailable" translatable="false">No data available</string>
+    <string name="Pleasedownaloaddata" translatable="false">Please download data</string>
+    <string name="title_store_list_activity_store_already_done" translatable="false">Store already uploaded</string>
+    <string name="title_store_list_activity_store_data_uploaded" translatable="false">Store data uploaded</string>
+    <string name="title_store_list_activity_store_already_checkout" translatable="false">Store already checkout</string>
+    <string name="title_store_list_activity_store_again_uploaded" translatable="false">Please upload data again</string>
+    <string name="title_store_list_activity_store_closed" translatable="false">Store Closed</string>
+    <string name="title_store_list_activity_already_store_closed" translatable="false">Store already closed</string>
+    <string name="title_store_list_checkout_Already_filled" translatable="false">Data already filled</string>
+    <string name="wantcheckout" translatable="false">Are you sure you want to checkout ?</string>
+    <string name="closed" translatable="false">Close</string>
+    <string name="title_store_list_checkout_current" translatable="false">Please checkout from current store</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="store_visited" translatable="false">Store Visited</string>
+    <string name="first_geotag_the_store" translatable="false">First geotag the store</string>
+    <string name="dialog_title" translatable="false">Parinaam</string>
+    <string name="DELETE_ALERT_MESSAGE" translatable="false">Saved data will be lost - Do you want to continue ?</string>
+    <string name="title_activity_store_details" translatable="false">StoreDetailsActivity</string>
+    <string name="covrageError" translatable="false">Coverage not made. Please try again.</string>
+    <string name="deviationError" translatable="false">Deviation data not uploaded. Please try again.</string>
+    <string name="title_audit_activity" translatable="false">Audit Menu</string>
+    <string name="title_activity_secondary_window" translatable="false">SecondaryWindowActivity</string>
+    <string name="backwall" translatable="false">Rate the Back Wall as per Dabang Rules</string>
+    <string name="title_activity_secondary_window_new" translatable="false">SecondaryWindowNew</string>
+    <string name="title_activity_team_list" translatable="false">TeamListActivity</string>
+    <string name="title_activity_performance" translatable="false">PerformanceActivity</string>
+    <string name="merchandiser_store_checkout" translatable="false">Please checkout from current merchandiser store</string>
+    <string name="title_activity_team_attendance_new" translatable="false">TeamAttendanceNew</string>
+    <string name="title_activity_my_performance" translatable="false">MyPerformanceActivity</string>
+    <string name="title_activity_team_performance" translatable="false">TeamPerformanceActivity</string>
+    <string name="current_month" translatable="false">Current Month %</string>
+    <string name="last_month" translatable="false">Last Month %</string>
+    <string name="last_quarter" translatable="false">Last Quarter %</string>
+    <string name="my_performance" translatable="false">My Performance %</string>
+    <string name="pjp_error" translatable="false">Entry restricted due to deviation done</string>
+    <string name="mer_error" translatable="false">No merchandiser plan for the day</string>
+    <string name="pjp_deviation_success_msg" translatable="false">Data already filled</string>
+    <string name="today_outlet_chcekout_error" translatable="false">Please checkout from today\s outlet</string>
+    <string name="today_outlet_store_data_fill_error" translatable="false">All store data or reason mandatory to fill and upload in today\s outlet.</string>
+    <string name="prev_outlet_chcekout_error" translatable="false">Please checkout from previousDay\s outlet store first</string>
+    <string name="prev_outlet_store_data_fill_error" translatable="false"> All store data or reason mandatory to fill and upload in previousDay\s outlet. </string>
+    <string name="select_color" translatable="false">Please select color. </string>
+    <string name="compliance" translatable="false">Please select compliance. </string>
+    <string name="location" translatable="false">Please select location. </string>
+    <string name="image" translatable="false">Please click image. </string>
+    <string name="data_not_upload" translatable="false">Data not uploaded. Please try again. </string>
+    <string name="check_internet" translatable="false">Please check internet connection. </string>
+    <string name="attendance_already_done" translatable="false">Your attendance Already Done. </string>
+    <string name="download_data1" translatable="false">No JCP or Deviation data found.</string>
+    <string name="download_data" translatable="false">Downloading</string>
+    <string name="data_error" translatable="false">No JCP planned for the day. </string>
+    <string name="title_store_list_checkout" translatable="false">Please checkout from store</string>
+    <string name="want_upload_data" translatable="false">Do you want to upload data ?</string>
+    <string name="title_store_list_checkout_jcp_previous_day" translatable="false">Please checkout from deviation jcp previousDay\s outlet</string>
+    <string name="attendance_first" translatable="false">Mark your attendance first. </string>
+    <string name="leave_holiday_today" translatable="false">You are on leave or holiday today so can not proceed. </string>
+    <string name="non_working_error" translatable="false">Data not uploading </string>
+    <string name="today_outlet_visit_later_error" translatable="false">Visit later is not valid reason in today\s outlet to enter in deviation.</string>
+    <string name="prev_outlet_visit_later_error" translatable="false">Visit later is nto valid reason in previousDay\s outlet to enter in deviation.</string>
+    <string name="title_activity_previous_upload" translatable="false">Previous Upload</string>
+    <string name="my_performance_error" translatable="false">Performance data not found.</string>
+    <string name="my_team_performance_error" translatable="false">Team performance data not found.</string>
+    <string name="fifo_check_error" translatable="false">Please select value for FIFO Check</string>
+    <string name="tape_roll_check_error" translatable="false">Please select value for TAPE ROLL Check</string>
+    <string name="data_error_primary_shelf" translatable="false">Please fill supervisor data</string>
+    <string name="data_success_msg" translatable="false">Data saved succesfully</string>
+    <string name="data_not_saved_msg" translatable="false">Data not saved</string>
+    <string name="save_confirmation_msg" translatable="false">Are you sure you want to save ?</string>
+    <string name="attendance_success_msg" translatable="false">All merchandiser attendance already uploaded.</string>
+    <string name="bd_posm" translatable="false"> POSM</string>
+    <string name="db_window_kit" translatable="false"> Window Kit</string>
+    <string name="mer_tool_kit" translatable="false">Merchandiser Tool Kit</string>
+    <string name="visitor_login" translatable="false">Visitor Login</string>
+    <string name="import_data" translatable="false">Import</string>
+    <string name="data_backup_msg" translatable="false">Are you sure you want to take the backup of your data?</string>
+    <string name="app_exit_msg" translatable="false">Do you want to exit?</string>
+    <string name="title_visitor_login" translatable="false">Visitor Login</string>
+    <string name="title_tool_kit" translatable="false">Merchandiser Tools</string>
+    <string name="title_posm" translatable="false">POSM</string>
+    <string name="title_window_kit" translatable="false">Window Kit</string>
+    <string name="mer_tool_kit_status_error" translatable="false">Please fill the status of tools</string>
+    <string name="app_clear_cache" translatable="false">Do you want to clear cache ?</string>
+    <string name="clear_data" translatable="false">Clearing Data</string>
+    <string name="tool_data_upload_msg" translatable="false">Tools data already uploded for today</string>
+    <string name="sup_facing_data_error" translatable="false">Please fill facing value</string>
+    <string name="sup_stock_data_error" translatable="false">Please fill stock value</string>
+    <string name="sup_img_error" translatable="false">please click all three images</string>
+    <string name="sup_desc_error" translatable="false">Please enter description</string>
+    <string name="sup_promotion_img_error" translatable="false">Please click image</string>
+    <string name="data_no_avail_error" translatable="false">No data available</string>
+    <string name="Facing" translatable="false">Facing</string>
+    <string name="Count" translatable="false">Count</string>
+    <string name="status" translatable="false">Status</string>
+    <string name="download_data_error" translatable="false">Please download data first.</string>
+    <string name="facing_error" translatable="false">Facing cannot be greater then stock</string>
+    <string name="Ok" translatable="false">Ok</string>
+    <string name="Quy" translatable="false">Quantity</string>
+    <string name="present_error" translatable="false">Please select coupon present or not</string>
+    <string name="qty_error" translatable="false"> Please fill the quantity</string>
+    <string name="image_error" translatable="false">Please capture all images</string>
+    <string name="qty_zero_error" translatable="false">Quantity must be grater then zero</string>
+    <string name="no_jcp_planned_error" translatable="false">No JCP planned for day.Please contact to admin</string>
+    <string name="stock_present_error" translatable="false">Please select stock exist ot not</string>
+    <string name="capacity_error" translatable="false">Please fill the capacity</string>
+    <string name="purity_error" translatable="false">Please select purity</string>
+    <string name="bira_present_error" translatable="false">Please select chiller present or not</string>
+    <string name="single_image_error" translatable="false">Please capture image</string>
+    <string name="posm_exist_error" translatable="false">Please select POSM exist or not</string>
+    <string name="old_posm_error" translatable="false">Please fill old POSM deployemnt</string>
+    <string name="new_posm_error" translatable="false">Please fill new POSM deployment</string>
+    <string name="sku_present_error" translatable="false">Please select sku present or not</string>
+    <string name="bira_exist_error" translatable="false">Please select chiller exist or not</string>
+    <string name="non_zero_new_posm_error" translatable="false">New POSM deployment must be greater then zero</string>
+    <string name="non_zero_old_posm_error" translatable="false">Old POSM deploment must be greater then zero</string>
+    <string name="select_reason_error" translatable="false">Please select reason</string>
+    <string name="charging_error" translatable="false">Please select charging</string>
+    <string name="mandatory_image_error" translatable="false">Please capture mandatory image</string>
+    <string name="one_single_image_error" translatable="false">Please capture any one image</string>
+    <string name="title_activity_geo_tag_store_list" translatable="false">Geo Tag List</string>
+    <string name="title_activity_geo_tagging" translatable="false">GeoTaggingActivity</string>
+    <string name="title_geo_tag_activity_geo_already_done" translatable="false">Store Already Geotagged</string>
+    <string name="menu_geotag" translatable="false">Geo Tag</string>
+</resources>
